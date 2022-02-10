@@ -1,6 +1,4 @@
-# Spite-
-
-A competitive fitness tracker app
+# Spite (Fitness Tracker App)
 
 This native android application was developed for people of all ages who'd like to keep themselves motivated through spite.
 
