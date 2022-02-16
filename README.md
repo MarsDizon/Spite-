@@ -7,3 +7,6 @@ App features include:
 - Set up work out goals.
 - Stopwatch and countdown timer for recording workout sessions.
 - Pair up with new antagonists every week.
+
+## Authors
+Amita Shrestha, Hannah Lyons, Mars Dizon
